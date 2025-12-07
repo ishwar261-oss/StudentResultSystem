@@ -40,7 +40,12 @@ useofStudentRes.java     → Main class for input and execution
  ----------------------------------------------------------------------
  SUBJECT                  MARK       GRADE      RESULT
  Mathematics              78         O++        Pass
- ...
+ Science                  67         A++        Pass
+ English                  82         O++        Pass
+ Geography                55         B++        Pass
+ History                  38         D++        Pass
+ ----------------------------------------------------------------------
+
  TOTAL MARKS OUT OF 500 : 410
  TOTAL PERCENTAGE        : 82.0
  CGPA                    : 8.2
