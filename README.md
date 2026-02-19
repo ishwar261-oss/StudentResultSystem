@@ -31,26 +31,6 @@ useofStudentRes.java     → Main class for input and execution
 3. Run the program:
    java useofStudentRes
 
-## Sample Output
- ------------------------- STUDENT RESULT -------------------------
-
- NAME OF STUDENT : John
- SEAT NO : A123
- ROLL NO : 10
- ----------------------------------------------------------------------
- SUBJECT                  MARK       GRADE      RESULT
- Mathematics              78         O++        Pass
- Science                  67         A++        Pass
- English                  82         O++        Pass
- Geography                55         B++        Pass
- History                  38         D++        Pass
- ----------------------------------------------------------------------
-
- TOTAL MARKS OUT OF 500 : 410
- TOTAL PERCENTAGE        : 82.0
- CGPA                    : 8.2
- OVERALL RESULT          : PASS
-
 ## Purpose
 This project demonstrates:
 - Java OOP implementation
