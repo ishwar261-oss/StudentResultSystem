@@ -41,6 +41,6 @@ This project demonstrates:
 Useful for beginners, students, and portfolio/resume projects.
 
 ## Author
-Your Name  
-GitHub: your-github-username  
+IDz
+GitHub: (https://github.com/ishwar261-oss)  
 LinkedIn: your-linkedin-link
