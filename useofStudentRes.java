@@ -115,7 +115,7 @@ class useofStudentRes
         String SENO = obj1.nextLine();
         System.out.print("Enter Roll Number : ");
         int rno = obj1.nextInt();
-        obj1.nextLine(); // consume newline
+        obj1.nextLine();
 
         System.out.print("Enter Subject 1 : ");
         String SN1 = obj1.nextLine();
@@ -154,4 +154,5 @@ class useofStudentRes
         obj2.header3();
         obj2.header4();
     }
+
 }
