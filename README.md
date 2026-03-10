@@ -42,5 +42,4 @@ Useful for beginners, students, and portfolio/resume projects.
 
 ## Author
 IDz
-GitHub: (https://github.com/ishwar261-oss)  
-LinkedIn: your-linkedin-link
+
